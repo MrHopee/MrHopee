@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrHopee
-- 👀 I’m interested in computer games and programming 
-- 🌱 I’m currently learning programming on university 4th grade
-- 📫 You can reach me with umut.c.2002@hotmail.com
+- 👀 I’m interested in computer games
+- 🌱 I’m currently working on game development
+- 📫 You can reach me with mrhope362@gmail.com
 
 <!---
 MrHopee/MrHopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
